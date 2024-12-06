@@ -1,6 +1,6 @@
 # BatchedSW
 
-This is R code for generating all the results in the manuscript entitled "Delayed Initiation Times Across Clusters: A Comparative Study of Batched and Classic Stepped Wedge Design".
+R codes for generating all the results in the manuscript entitled "Delayed Initiation Times Across Clusters: A Comparative Study of Batched and Classic Stepped Wedge Design".
 
 There are three R files in this repository. 
 
